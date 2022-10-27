@@ -1,0 +1,16 @@
+.list{
+    background-color: #dd7979;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#main{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#subsection{
+    background-color: rgb(71, 188, 71);
+    font-size: 24px;
+    font-weight: 700;
+}
+.list.subsection{
+    font-size: 24px;
+}
