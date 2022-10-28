@@ -1,0 +1,11 @@
+.main, .list{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.main{
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.list{
+    background-color: rgb(200, 200, 0)
+}
